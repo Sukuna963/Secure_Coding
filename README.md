@@ -1,6 +1,6 @@
 # Secure_Coding
 
-## Course
+## Learning
 * [WeHackPurple](https://wehackpurple.com/)
 * [Snyck](https://learn.snyk.io/)
 
