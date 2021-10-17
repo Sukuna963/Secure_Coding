@@ -19,4 +19,13 @@
 * [Veracode Security Labs](https://www.veracode.com/products/security-labs)
 * [Secure Coding Dojo](https://owasp.trendmicro.com/public/index.html)
 
+# Software_Testing
 
+## Courses
+* [Software Testing Academy](https://www.swtestacademy.com/)
+* [Software Testing Class](https://www.softwaretestingclass.com/)
+* [The Testing Academy](https://learn.thetestingacademy.com/)
+* [saucelabs](https://training.saucelabs.com/)
+
+## Tools
+* [Chaos Monkey](https://www.gremlin.com/chaos-monkey/)
