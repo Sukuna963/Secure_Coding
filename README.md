@@ -13,6 +13,9 @@
 * [Vicki Li](https://vickieli.dev/)
 * [Tanya Janca](https://shehackspurple.medium.com/)
 
+## Tools
+* [Mariana Trench](https://mariana-tren.ch/docs/overview)
+
 ## Labs
 * [HackEDU](https://www.hackedu.com/)
 * [Kontra](https://application.security/)
