@@ -16,6 +16,7 @@
 
 ## Tools
 * [Mariana Trench](https://mariana-tren.ch/docs/overview)
+* [PhpStan](https://phpstan.org/)
 
 ## Labs
 * [HackEDU](https://www.hackedu.com/)
