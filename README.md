@@ -34,6 +34,8 @@
 
 ## Tools
 * [Chaos Monkey](https://www.gremlin.com/chaos-monkey/)
+* [mocha JS](https://mochajs.org/)
+* [Jest JS](https://jestjs.io/)
 
 # SecDevOps
 
