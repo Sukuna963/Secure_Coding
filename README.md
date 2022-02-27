@@ -5,6 +5,7 @@
 * [Snyck](https://learn.snyk.io/)
 * [we45](https://we45.com/blog/)
 * [Control-Flag](https://github.com/IntelLabs/control-flag/)
+* [Secure Coding Handbook](https://vladtoie.gitbook.io/secure-coding/)
 
 ## Documents
 * [NIST - Authentication and Lifecycle Management](https://pages.nist.gov/800-63-3/sp800-63b.html?ck_subscriber_id=1326243721&utm_source=convertkit&utm_medium=email&utm_campaign=An+Upcoming+FREE+Course+For+You%21+%20-%206782529)
@@ -26,7 +27,7 @@
 
 # Software_Testing
 
-## Courses
+## Learning
 * [Software Testing Academy](https://www.swtestacademy.com/)
 * [Software Testing Class](https://www.softwaretestingclass.com/)
 * [The Testing Academy](https://learn.thetestingacademy.com/)
@@ -38,6 +39,9 @@
 * [Jest JS](https://jestjs.io/)
 
 # SecDevOps
+
+## Learning
+* [DevOps Training](https://tkssharma-devops.gitbook.io/devops-training/)
 
 ## Tools
 * [Terraform](https://www.terraform.io/)
