@@ -17,6 +17,7 @@
 * [Mariana Trench](https://mariana-tren.ch/docs/overview)
 * [PhpStan](https://phpstan.org/)
 * [Control Flag](https://github.com/IntelLabs/control-flag/)
+* [r2c](https://r2c.dev/)
 
 ## Labs
 * [HackEDU](https://www.hackedu.com/)
