@@ -30,6 +30,7 @@
 * [Software Testing Class](https://www.softwaretestingclass.com/)
 * [The Testing Academy](https://learn.thetestingacademy.com/)
 * [saucelabs](https://training.saucelabs.com/)
+* [The Test Therapist](https://thetesttherapist.com/)
 
 ## Tools
 * [mocha JS](https://mochajs.org/)
