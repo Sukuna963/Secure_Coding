@@ -18,6 +18,7 @@
 ## Tools
 * [Mariana Trench](https://mariana-tren.ch/docs/overview)
 * [PhpStan](https://phpstan.org/)
+* [Control Flag](https://github.com/IntelLabs/control-flag/)
 
 ## Labs
 * [HackEDU](https://www.hackedu.com/)
