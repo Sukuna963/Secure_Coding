@@ -31,9 +31,9 @@
 * [saucelabs](https://training.saucelabs.com/)
 
 ## Tools
-* [Chaos Monkey](https://www.gremlin.com/chaos-monkey/)
 * [mocha JS](https://mochajs.org/)
 * [Jest JS](https://jestjs.io/)
+* [Cypress](https://www.cypress.io/)
 
 # SecDevOps
 * [DevOps Training](https://tkssharma-devops.gitbook.io/devops-training/)
@@ -52,3 +52,4 @@
 
 # Chaos Engineer
 * [gremlin](https://www.gremlin.com/)
+* [Chaos Monkey](https://www.gremlin.com/chaos-monkey/)
