@@ -55,3 +55,5 @@
 # Chaos Engineer
 * [gremlin](https://www.gremlin.com/)
 * [Chaos Monkey](https://www.gremlin.com/chaos-monkey/)
+* [Chaos Native](https://www.chaosnative.com/)
+* [Chaos Carnival](https://chaoscarnival.io/)
