@@ -5,6 +5,7 @@
 * [Control-Flag](https://github.com/IntelLabs/control-flag/)
 * [Secure Coding Handbook](https://vladtoie.gitbook.io/secure-coding/)
 * [Secure Code Warrior](https://www.securecodewarrior.com/)
+* [ShiftLeft](https://www.shiftleft.io/)
 
 ## Documents
 * [NIST - Authentication and Lifecycle Management](https://pages.nist.gov/800-63-3/sp800-63b.html?ck_subscriber_id=1326243721&utm_source=convertkit&utm_medium=email&utm_campaign=An+Upcoming+FREE+Course+For+You%21+%20-%206782529)
