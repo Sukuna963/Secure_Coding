@@ -48,6 +48,7 @@
 * [Ansible](https://www.ansible.com/)
 * [Jenkis](https://www.jenkins.io/)
 * [Argo-CD](https://argo-cd.readthedocs.io/en/stable/)
+* [Bamboo](https://confluence.atlassian.com/bamboo)
 
 # API
 * [APISecurity](https://apisecurity.io/)
