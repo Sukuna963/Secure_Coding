@@ -59,3 +59,4 @@
 * [Chaos Monkey](https://www.gremlin.com/chaos-monkey/)
 * [Chaos Native](https://www.chaosnative.com/)
 * [Chaos Carnival](https://chaoscarnival.io/)
+* [Chaos Engineering 101](https://sharpend.io/chaos-engineering-101/)
