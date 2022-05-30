@@ -41,6 +41,7 @@
 
 # SecDevOps
 * [DevOps Training](https://tkssharma-devops.gitbook.io/devops-training/)
+* [gitguardian](https://blog.gitguardian.com/)
 
 ## Tools
 * [Terraform](https://www.terraform.io/)
