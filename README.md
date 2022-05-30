@@ -47,6 +47,7 @@
 * [Terraform](https://www.terraform.io/)
 * [Ansible](https://www.ansible.com/)
 * [Jenkis](https://www.jenkins.io/)
+* [Argo-CD](https://argo-cd.readthedocs.io/en/stable/)
 
 # API
 * [APISecurity](https://apisecurity.io/)
